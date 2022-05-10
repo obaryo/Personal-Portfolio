@@ -124,6 +124,10 @@ main {
   align-items: center;
   gap: 2rem;
 }
+.proj-des {
+  font-size: 1.4rem;
+  color: var(--clr-primary);
+}
 .project-link {
   width: 20rem;
 }
